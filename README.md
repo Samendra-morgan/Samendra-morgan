@@ -5,12 +5,6 @@ I'm a recent graduate in Bachelor of Computer and Information Science in Applica
 
 ---
 
-## 🎯 Key Highlights  
-- **Hackathon Project (2023):** Developed a **facial recognition attendance system** using **Python** and **MongoDB** to enhance accountability and parental engagement in schools.  
-- **Penny Wise Budgeting App (2024):** A budgeting and stock management app with features to help users manage finances and achieve financial goals.
-
----
-
 ## 🛠️ Skills  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
